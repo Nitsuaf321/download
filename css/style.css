@@ -1,0 +1,24 @@
+h1 {
+    color: red;
+    font-size: 45px;
+    text-align: center;
+}
+section {
+    background: blue;
+    margin: 20px;
+    background-color: pink;
+}
+
+#first {
+    border: 2px solid red; 
+    border-radius: 8 px;
+
+}
+
+.dimension {
+    width: 80%;
+
+}
+section:last-child {
+    background: green;
+}
